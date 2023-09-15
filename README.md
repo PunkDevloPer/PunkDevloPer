@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **python,js,laravel,docker**
 
-- 📝 I regularly write articles on [http://mywebapp1.260mb.net/Blog.html](http://mywebapp1.260mb.net/Blog.html)
-
+- 📝 I regularly write articles on
 - 💬 Ask me about **python,linux**
 
 - 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**
 
-- 📄 Know about my experiences [http://mywebapp1.260mb.net/sobremi.html](http://mywebapp1.260mb.net/sobremi.html)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
