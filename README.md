@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Juan david</h1>
 <h3 align="center">self-taught programming and computer security apprentice</h3>
 
-- 🔭 I’m currently working on **TelegramBot - CVE**
+- 🔭 I’m currently working on **convert in ethical hacker**
 
 - 🌱 I’m currently learning **python,js,laravel,docker**
 
-- 📝 I regularly write articles on
+- 📝 I regularly write articles on https://punkdevloper.github.io/Blog.html
 - 💬 Ask me about **python,linux**
 
 - 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
