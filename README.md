@@ -1,6 +1,5 @@
-<h1>**Hi i´m PunkDev de Seguridad Noobdev**</h1>
-<h3 align="center">self-taught programming and computer security apprentice</h3>
-
+<h1>Hi i´m PunkDev </h1>
+ <img src="https://raw.githubusercontent.com/PunkDevloPer/PunkDevloPer/master/Punkdev.svg" alt="javascript" width="910" height="190"/> </a>
 - 🔭 I’m currently working on **convert in ethical hacker**
 
 - 🌱 I’m currently learning **python,js,laravel,docker**
@@ -14,7 +13,7 @@
 - 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://linkedin.com/in/juan-david-hernandez-77072913a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-david-hernandez-77072913a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@devnoob_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devnoob_py" height="30" width="40" /></a>
 </p>
