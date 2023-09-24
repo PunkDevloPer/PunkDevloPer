@@ -1,15 +1,20 @@
-<h1 align="center">**Hi i´m PunkDev**</h1>
-<p align="center">- 🔭 I’m currently working on **convert in ethical hacker**
-
-- 🌱 I’m currently learning **python,js,laravel,docker**
-
-- 📝 I regularly write articles on https://punkdevloper.github.io/Blog.html
-- 💬 Ask me about **python,linux**
+<h1 align="center">Hi i´m PunkDev</h1>
+<p align="center">- 🔭 I’m currently working on **convert in ethical hacker**</p>
 
 
-- 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**
+<p align="center">- 🌱 I’m currently learning **python,js,laravel,docker**</p>
 
-- 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html
+
+<p align="center">- 📝 I regularly write articles on https://punkdevloper.github.io/Blog.html</p>
+
+<p align="center">- 💬 Ask me about **python,linux**</p>
+
+
+
+<p align="center">- 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**</p>
+
+
+<p align="center">- 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html</p>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p >
