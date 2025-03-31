@@ -1,7 +1,6 @@
 <h1 align="center">Hi i´m PunkDev</h1>
 <p>- 🔭 I’m currently working on **convert in ethical hacker**</p>
 <p>- 🌱 I’m currently learning **python,js,laravel,docker**</p>
-<p>- 📝 I regularly write articles on https://punkdevloper.github.io/Blog.html</p>
 <p>- 💬 Ask me about **python,linux**</p>
 <p>- 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**</p>
 <p>- 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html</p>
