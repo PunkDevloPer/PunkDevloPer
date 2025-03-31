@@ -1,18 +1,63 @@
-<h1 align="center">Hi i´m PunkDev</h1>
-<p>- 🔭 I’m currently working on **convert in ethical hacker**</p>
-<p>- 🌱 I’m currently learning **python,js,laravel,docker**</p>
-<p>- 💬 Ask me about **python,linux**</p>
-<p>- 📫 How to reach me **juandavidhernandezayala@gmail.com or seguridadnoobdev@gmail.com**</p>
-<p>- 📄 Know about my experiences  https://punkdevloper.github.io/sobremi.html</p>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p >
-<a href="https://linkedin.com/in/juan-david-hernandez-77072913a" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-david-hernandez-77072913a" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@devnoob_py" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devnoob_py" height="30" width="30" /></a>
+<h1 align="center">💀 PunkDev aka El Noob que Rompe Cosas 💻</h1>
+<p align="center">
+  Hacker ético en formación · Pythonero compulsivo · Linuxero por elección · Dev por pasión
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=🐍+Python+lover;💣+Exploit+apprentice;💻+Dev+Noob+since+forever;🚀+Aprendiendo+hasta+romperlo+todo" />
+</div>
 
-![PunkDevStats](https://github-readme-stats.vercel.app/api?username=punkdevloper&show_icons=true&theme=prussian)
+---
 
+### 🧠 Sobre mí
+
+- 🔭 Buscando la senda ninja del **hacking ético**  
+- 📚 Aprendiendo **Python**, **JS**, **Laravel**, **Docker**, **Pentesting**, y domando herramientas locas  
+- 🎥 En mi canal hablo de bugs, scripts y hacks con humor ácido: [@devnoob_py](https://www.youtube.com/@devnoob_py)  
+- 🌐 Mi rincón personal: [punkdevloper.github.io/sobremi.html](https://punkdevloper.github.io/sobremi.html)  
+- 🧩 Me gusta automatizar todo. Si algo se puede hacer en Bash, lo intento con Python igual 😏  
+- 📬 Contacto:  
+  📧 juandavidhernandezayala@gmail.com  
+  📧 seguridadnoobdev@gmail.com  
+
+---
+
+### 🧩 Skills & Herramientas:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![GTK](https://img.shields.io/badge/GTK-2C2C2C?style=for-the-badge&logo=gtk&logoColor=fff)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
+
+---
+
+### 🔥 Mis Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=punkdevloper&show_icons=true&theme=tokyonight&hide_border=true&title_color=F75C7E&icon_color=79ff97" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkdevloper&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🧠 Top Lenguajes:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkdevloper&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Mi código está vivo:
+
+```text
+🐍 Actualmente ejecutando...
