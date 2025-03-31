@@ -54,13 +54,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkdevloper&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
+🌐 Conecta conmigo:
+<p align="left"> <a href="https://linkedin.com/in/juan-david-hernandez-77072913a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@devnoob_py" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
+
 
 ### 🐍 Mi código está vivo:
 
 ```text
 🐍 Actualmente ejecutando...
 
-🌐 Conecta conmigo:
-<p align="left"> <a href="https://linkedin.com/in/juan-david-hernandez-77072913a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@devnoob_py" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
+
