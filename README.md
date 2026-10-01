@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Punkdev.svg" width="100%" alt="PunkDev Banner">
-</p>
+
 
 <div align="center">
 
