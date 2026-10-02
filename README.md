@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Punkdev.svg" width="100%" alt="PunkDev">
+<img src="./Punkdev.svg" width="50%" alt="PunkDev">
 
 ### `> SYSTEM://PUNKDEV`
 
