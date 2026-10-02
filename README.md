@@ -1,126 +1,56 @@
-
-
 <div align="center">
 
-### `root@punkdev:~# whoami`
+<img src="./Punkdev.svg" width="100%" alt="PunkDev">
 
-**Linux · Networking · Python · Proxmox · Automation · Cybersecurity**
+### `> SYSTEM://PUNKDEV`
 
-<code>Construyo herramientas · Administro sistemas · Rompo cosas para entender cómo funcionan</code>
+**Linux Systems · Networking · Python · Cybersecurity**
+
+`BUILD` ◆ `AUTOMATE` ◆ `BREAK` ◆ `LEARN`
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Debian-0D1117?style=flat-square&logo=debian&logoColor=FF3864">
+<img src="https://img.shields.io/badge/Proxmox-0D1117?style=flat-square&logo=proxmox&logoColor=FF9F1C">
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF9C">
 
 </div>
 
+---
 
+### `// PROFILE`
 
-<div align="center">
-
-# `root@punkdev:~# whoami`
-
-### PunkDevloPer
-
-**Linux · Networking · Python · Proxmox · Automation · Cybersecurity**
-
-```text
-Construyo herramientas, administro sistemas
-y rompo cosas para entender cómo funcionan.
+```text id="1ifojp"
+SYS  Linux · Debian · Proxmox · Docker
+NET  TCP/IP · VLAN · Routing · MikroTik
+DEV  Python · Bash · APIs · Git
+SEC  Nmap · Pentesting · Network Security
 ```
 
-</div>
+### `// PROJECTS`
+
+| Project | System |
+|:--|:--|
+| 🔎 [Nmap Interpreter](https://github.com/PunkDevloPer/Nmap_Interprete) | `Python` `Nmap` `XML` |
+| ⚔️ [HMV CLI](https://github.com/PunkDevloPer/HMV-CLIV2) | `Python` `Pentesting` |
+| 🖥️ [Proxmox Lab](https://github.com/PunkDevloPer/Proxmox) | `Proxmox` `Networking` |
+| 🐧 [Debian Hyprland](https://github.com/PunkDevloPer/Debian-Hyprland) | `Linux` `Bash` |
 
 ---
 
-## `$ cat about.txt`
+<div align="center">
 
-Apasionado de **GNU/Linux, redes, automatización y ciberseguridad**.
+### `// CONNECTIONS`
 
-Me gusta aprender construyendo proyectos reales: herramientas en Python, servidores Linux, virtualización, redes y laboratorios de seguridad.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=githubpages&logoColor=000)](https://punkdevloper.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/juan-david-hernandez-77072913a)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF3864?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devnoob_py)
 
-```bash
-while true; do
-    aprender
-    construir
-    romper
-    entender
-    mejorar
-done
+```text id="ft6z43"
+PUNKDEV:// ONLINE
 ```
-
----
-
-## `$ ./stack`
-
-**Systems**
-
-`Debian` · `Linux` · `Proxmox` · `Docker` · `Bash`
-
-**Networking**
-
-`TCP/IP` · `VLANs` · `Routing` · `MikroTik` · `DNS` · `DHCP`
-
-**Development**
-
-`Python` · `Bash` · `JavaScript` · `Git` · `SQLite` · `APIs`
-
-**Security**
-
-`Nmap` · `Pentesting` · `Recon` · `Network Security`
-
----
-
-## `$ ls ./projects`
-
-### 🔎 [Nmap Interpreter](https://github.com/PunkDevloPer/Nmap_Interprete)
-
-Parser e intérprete de resultados de Nmap.
-
-`Python` `XML` `JSON` `Nmap`
-
-### 🖥️ [Proxmox](https://github.com/PunkDevloPer/Proxmox)
-
-Configuraciones, documentación y experimentos de mi homelab.
-
-`Proxmox` `Linux` `Networking`
-
-### ⚔️ [HMV CLI](https://github.com/PunkDevloPer/HMV-CLIV2)
-
-Herramientas para automatizar tareas en laboratorios HackMyVM.
-
-`Python` `CLI` `Pentesting`
-
-### 🐧 [Debian Hyprland](https://github.com/PunkDevloPer/Debian-Hyprland)
-
-Configuración y automatización de mi workstation Debian.
-
-`Debian` `Hyprland` `Bash`
-
----
-
-## `$ uptime`
-
-Actualmente profundizando en:
-
-`Linux` · `Networking` · `Proxmox` · `Python` · `Automation` · `Cybersecurity`
-
-> No intento saberlo todo. Intento saber cómo averiguarlo.
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PunkDevloPer&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunkDevloPer&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/juan-david-hernandez-77072913a)
-[![YouTube](https://img.shields.io/badge/YouTube-DevNoob-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@devnoob_py)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PunkDev-00FF41?style=flat-square&logo=githubpages&logoColor=black)](https://punkdevloper.github.io)
-
-`root@punkdev:~# exit`
 
 </div>
